@@ -1,0 +1,6 @@
+package com.src.chaincode.fabcar.java
+/*
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+rootProject.name = 'fabWish'

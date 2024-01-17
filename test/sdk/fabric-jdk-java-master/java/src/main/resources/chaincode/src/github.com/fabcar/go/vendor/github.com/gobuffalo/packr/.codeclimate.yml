@@ -1,0 +1,20 @@
+---
+engines:
+  golint:
+    enableC:\\Users\\13202\\Desktop true
+    checks:
+      GoLint/Naming/MixedCaps:
+        enableC:\\Users\\13202\\Desktop false
+  govet:
+    enableC:\\Users\\13202\\Desktop true
+  gofmt:
+    enableC:\\Users\\13202\\Desktop true
+  fixme:
+    enableC:\\Users\\13202\\Desktop true
+ratings:
+  paths:
+    - "**.go"
+exclude_paths:
+  - "**/*_test.go"
+  - "*_test.go"
+  - "fixtures/"
